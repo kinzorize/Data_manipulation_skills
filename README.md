@@ -1,2 +1,21 @@
 # Data_manipulation_skills
-In the series of line of codes, i displayed my knowledge of joins, cast, views, nullif, coalesce, alter, delete, drop, group and more.
+
+In this line of sql code i displayed my skill of data manipulation such as
+
+- Group by
+- Inner join
+- Full outer join
+- Left join
+- Right join
+- Timestamps and Extract
+- Math functions
+- String functions
+- Sub - query
+- Self - join
+- Creating database and table
+- Case
+- Coalesce
+- Nullif
+- Cast
+- views
+- Import and export functionality
